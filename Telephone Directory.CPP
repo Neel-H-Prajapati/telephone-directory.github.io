@@ -1,5 +1,4 @@
-//Downloaded From www.c4cpp.co.nr
-//(C)2009.All rights reserved.
+
 #include<iostream.h>
 #include<conio.h>
 
